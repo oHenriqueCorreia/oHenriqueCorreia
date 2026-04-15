@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Henrique Correia
 
-🚀 **Junior Software Engineer | Java Script . React . Mysql  
+🚀 **Junior Software Engineer | Java Script . TypeScript . HTML5 . CSS3 . React . Angular . Next.js Tailwindcss . Node.js . MySQL . Postgresql . Docker . AWS . Git . GitHub . Figma
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
