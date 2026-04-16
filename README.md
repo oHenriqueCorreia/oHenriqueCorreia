@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Henrique Correia
 
-🚀 **Junior Fullstack Developer | JavaScript . TypeScript . HTML5 . CSS3 . React . Angular . Next.js Tailwindcss . Node.js . MySQL . Postgresql . Docker . AWS . Git . GitHub . Figma**
+🚀 **Fullstack Developer | JavaScript . TypeScript . HTML5 . CSS3 . React . Angular . Next.js Tailwindcss . Node.js . MySQL . Postgresql . Docker . AWS . Git . GitHub . Figma**
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
